@@ -6,8 +6,9 @@ Agile methods used: Scrum and Kanban.<br>
 ### Stack and architecture details
 
 Front-end - React.js, React Context API & Hooks, Axios; <br>
-Back-end - Node.js, Express.js, MySQL, RESTful API and MSC architecture; <br>
-Style - Not yet fully styled.
+Back-end - Node.js, Express.js, RESTful API, MSC Architecture; <br>
+Database - MySQL; <br>
+Style - Not yet fully styled; <br>
 
 ### Instructions to run the project
 
